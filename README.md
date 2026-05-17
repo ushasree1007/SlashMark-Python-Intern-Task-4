@@ -36,7 +36,9 @@ FILES USED :
 
 OUTPUTS : 
 
-
+<img width="1919" height="964" alt="Image" src="https://github.com/user-attachments/assets/c68c66fd-e683-4850-9aab-77c269a55ea9" />
+<img width="1919" height="948" alt="Image" src="https://github.com/user-attachments/assets/1d8463c9-7b69-45ff-b8b1-69b873cfd6ef" />
+<img width="1907" height="989" alt="Image" src="https://github.com/user-attachments/assets/b8d467c8-c742-4f7d-a027-75f8eb1cd269" />
 
 
 Project Status
